@@ -1,6 +1,6 @@
 # Toda atividade foi desenvolvida utilizando a linguagem C#
 
-- As respostas dos íten 3 e 4 também estão incluídas no código e são exibidas no console quando o programa é executado.
+- As respostas dos ítens 3 e 4 também foram incluídas no código e são exibidas no console quando o programa é executado.
 
 - Conheça os meus repositórios do Github e acompanhe a evolução das minhas habilidades.
 
